@@ -80,3 +80,4 @@ camera-calibration-beta-51a46d9d1055.json
 __pycache__/
 venv/
 *.pyc
+.qodo
